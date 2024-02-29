@@ -25,7 +25,7 @@ The Algorithms used are :
 
 ![Screenshot 3](/screenshots/ss3.png)
 
-> Developed by: [Mohit Kumar]('github.com/mk0609')
+> Developed by: [Mohit Kumar]('https://github.com/mk0609')
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mk0609/cancer-prediction)
